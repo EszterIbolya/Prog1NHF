@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1575845428 source:c:\users\nagye\desktop\prog1\hf1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cserel.h"
+	"torol.h"
+	"kereses.h"
+	"debugmalloc.h"
+
+1574936227 source:c:\users\nagye\desktop\prog1\hf1\cserel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cserel.h"
+	"torol.h"
+	"kereses.h"
+	"debugmalloc.h"
+
+1574906923 c:\users\nagye\desktop\prog1\hf1\cserel.h
+
+1574936227 c:\users\nagye\desktop\prog1\hf1\torol.h
+
+1574936233 source:c:\users\nagye\desktop\prog1\hf1\torol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cserel.h"
+	"torol.h"
+	"kereses.h"
+	"debugmalloc.h"
+
+1574907863 c:\users\nagye\desktop\prog1\hf1\kereses.h
+
+1575842764 source:c:\users\nagye\desktop\prog1\hf1\kereses.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cserel.h"
+	"torol.h"
+	"kereses.h"
+	"debugmalloc.h"
+
+1574095966 c:\users\nagye\desktop\prog1\hf1\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1574096026 c:\users\nagye\desktop\prog1\hf1\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
